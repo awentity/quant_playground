@@ -1,0 +1,5 @@
+# Ignore MacOS additional file 
+.DS_store
+
+# Ignore PDF outputs of plotted data
+*.pdf
